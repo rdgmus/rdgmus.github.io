@@ -165,6 +165,20 @@ a.button span {
   margin-right: 0;
 }
 
+#eclipse-projects{
+  background: transparent url(../images/aclipse-projects.png) 12px 50% no-repeat;
+}
+#eclipse-projects {
+  margin-right: 0;
+}
+
+#jsfprojects{
+  background: transparent url(../images/jsfprojects.png) 12px 50% no-repeat;
+}
+#jsfprojects {
+  margin-right: 0;
+}
+
 #phpprojects{
   background: transparent url(../images/phpprojects.png) 12px 50% no-repeat;
 }
