@@ -165,6 +165,12 @@ a.button span {
   margin-right: 0;
 }
 
+#phpprojects{
+  background: transparent url(../images/phpprojects.png) 12px 50% no-repeat;
+}
+#phpprojects {
+  margin-right: 0;
+}
 #luxemburg{
   background: transparent url(../images/ic_launcher.png) 12px 50% no-repeat;
 }
