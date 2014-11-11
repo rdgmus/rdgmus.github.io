@@ -165,6 +165,13 @@ a.button span {
   margin-right: 0;
 }
 
+#luxemburg{
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+}
+#luxemburg {
+  margin-right: 0;
+}
+
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
