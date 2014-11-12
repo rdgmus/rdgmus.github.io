@@ -185,6 +185,14 @@ a.button span {
 #phpprojects {
   margin-right: 0;
 }
+
+#registroandroid{
+  background: transparent url(../images/ic_launcher.png) 12px 50% no-repeat;
+}
+#registroandroid {
+  margin-right: 0;
+}
+
 #luxemburg{
   background: transparent url(../images/ic_launcher.png) 12px 50% no-repeat;
 }
